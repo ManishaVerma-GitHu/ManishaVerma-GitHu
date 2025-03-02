@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Data Analytics and Business Analyst
 - 🌱 I’m currently learning Python , Mysql, Power BI, Tableau , and Git.
 - 💞️ I’m looking to collaborate on open-source data analysis and visualization projects.
-- 📫 How to reach me www.linkedin.com/in/manisha-verma-780986173
+- 📫 How to reach me https://www.linkedin.com/in/manishaverma13/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 
 
